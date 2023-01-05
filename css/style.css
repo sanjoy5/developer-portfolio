@@ -129,14 +129,14 @@ nav ul li {
 }
 
 .banner .content .banner-subtitle {
-    font-size: 45px;
+    font-size: 40px;
     font-weight: 600;
     margin-bottom: 5px;
     color: #474747;
 }
 
 .banner .content .banner-title {
-    font-size: 85px;
+    font-size: 70px;
     font-weight: 700;
     margin-bottom: 20px;
     color: #181818;
@@ -152,7 +152,7 @@ nav ul li {
 .banner .banner-img {
     width: 584px;
     height: 676px;
-    transform: translateX(128px);
+    transform: translateX(135px);
     margin-top: 50px;
 }
 
